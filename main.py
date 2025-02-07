@@ -1,2 +1,1 @@
-print("Bad code")
-while True: pass
+print("Hello, World!")
