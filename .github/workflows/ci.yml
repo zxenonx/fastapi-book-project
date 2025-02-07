@@ -1,11 +1,11 @@
-name: continous-integration
+name: CI Pipeline
 
 on:
   pull_request:
     branches: ["main"]
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
