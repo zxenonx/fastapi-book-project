@@ -1,4 +1,4 @@
-name: CI Pipeline
+name: continous-integration
 
 on:
   pull_request:
