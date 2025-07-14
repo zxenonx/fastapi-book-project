@@ -10,7 +10,7 @@ Deprecated==1.2.18
 fastapi==0.116.1
 google-api-core==2.24.1
 google-api-python-client==2.160.0
-google-auth==2.38.0
+google-auth==2.40.3
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.1
 googleapis-common-protos==1.66.0
